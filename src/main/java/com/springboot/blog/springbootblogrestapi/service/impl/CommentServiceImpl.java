@@ -9,7 +9,6 @@ import com.springboot.blog.springbootblogrestapi.repository.CommentRepository;
 import com.springboot.blog.springbootblogrestapi.repository.PostRepository;
 import com.springboot.blog.springbootblogrestapi.service.CommentService;
 import org.modelmapper.ModelMapper;
-import org.springframework.boot.Banner;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
